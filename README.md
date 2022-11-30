@@ -9,7 +9,7 @@ Building a building Express server with the best and most efficient practices. M
 
 ### Links & Resources
 {GitHub Actions} {URL}
-{Deployed Web Service} {URL}
+{Deployed Web Service} {https://lab2-basic-express-server.onrender.com}
 
 see '.env.sample'
 
